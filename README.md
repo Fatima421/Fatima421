@@ -7,6 +7,7 @@
 
 <h3>Languages and Tools</h3>
 <p>
+  <a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/></a>
   <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
@@ -14,7 +15,6 @@
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/></a>
   <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a>
   <a href="https://github.com/realm/realm-swift"><img src="https://github.com/gilbarbara/logos/blob/main/logos/realm.svg" width="40" height="40"/></a>
   <a href="https://chatgpt.com/"><img src="https://gptunnel.ru/x/bimi.svg" width="40" height="40"/></a>
